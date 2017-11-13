@@ -1,4 +1,4 @@
-@title[Introduction]
+@title[Transaction Management System]
 
 # Git<span class="gold">Pitch</span>
 
